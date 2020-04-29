@@ -3,8 +3,8 @@ C     Programa Fatorial
 C     Versao Beta (17/11/2008)
 C     Autor: Pojucan, M.M.S.
 C     Licenca:
-C     O usu rio pode usar desde que nÆo seja para fins lucrativos. Pode
-C     alterar o c¢digo fonte, desde que comunique previamente o autor.
+C     O usuário pode usar desde que não seja para fins lucrativos. Pode
+C     alterar o código fonte, desde que comunique previamente o autor.
 C     ------------------------------------------------------------------
       PROGRAM FATORIAL
       IMPLICIT NONE
